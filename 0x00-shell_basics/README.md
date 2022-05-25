@@ -1,1 +1,1 @@
-This is my shell script which print out current working directory.
+This is my shell basics Project.
