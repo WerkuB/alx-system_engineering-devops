@@ -1,2 +1,2 @@
-#!/nib/bash
+#!/bin/bash
 chown betty hello
