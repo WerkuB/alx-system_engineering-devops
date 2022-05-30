@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t > list_result | head -10 
+ls -lt | head 
