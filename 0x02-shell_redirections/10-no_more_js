@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r $(find ./*.js -type f)
+find . -name "*.js" | xargs rm
